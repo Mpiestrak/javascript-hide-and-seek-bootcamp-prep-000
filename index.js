@@ -1,6 +1,5 @@
 function getFirstSelector(selector) {
-  var sel = selector
-  document.querySelector(sel)
+ const id = document.querySelector(selector)
 }
 
 function nestedTarget() {

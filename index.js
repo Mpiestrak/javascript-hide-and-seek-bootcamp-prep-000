@@ -14,7 +14,7 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
- var queue = []
- queue.push()
+ var deep = document.getElementById()
+
 }
 

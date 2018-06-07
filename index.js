@@ -15,6 +15,6 @@ function increaseRankBy(n) {
 
 function deepestChild() {
  var queue = []
- queue
+ queue.push()
 }
 
